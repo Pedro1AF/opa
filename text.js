@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     textElement.textContent = ''; // Limpa o texto do elemento p
     
     let index = 0;
-    const speed = 100; // Velocidade de digitação em milissegundos
+    const speed = 350; // Velocidade de digitação em milissegundos
   
     function typeText() {
       if (index < text.length) {
