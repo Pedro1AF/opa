@@ -9,7 +9,7 @@
   }
   .cursor {
     border-right: 2px solid;
-    animation: blink 1s infinite;
+    animation: blink 3s infinite;
   }
   
   /* Estilo para o container */
